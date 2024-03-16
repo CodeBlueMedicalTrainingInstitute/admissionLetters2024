@@ -1,5 +1,3 @@
-# marchCohort2024AdmissionLetters
-
 # Admission Letters Repository
 
 Welcome to the Admission Letters Repository! This repository hosts individual admission letters for students who have been accepted into our institution's programs. Each student can access their admission letter securely through this repository.
@@ -22,7 +20,7 @@ Please note that this repository will be closed in 4 days from the date of admis
 
 ## Security and Privacy
 
-We take the security and privacy of your admission letter seriously. Please ensure that you keep your admission letter confidential and do not share it with any third party not part of the cohort. Sharing admission letter information with unauthorized individuals is strictly prohibited.
+We take the security and privacy of your admission letter seriously. Please ensure that you keep your admission letter confidential and do not share it with any third party not part of the cohort. Sharing this information with unauthorized individuals is strictly prohibited.
 
 ## Feedback
 
